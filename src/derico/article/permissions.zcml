@@ -6,6 +6,12 @@
   <configure zcml:condition="installed AccessControl.security">
   <!-- -*- extra stuff goes here -*- -->
 
+    <permission
+        id="derico.article.AddArticlePage"
+        title="derico.article: Add ArticlePage"
+    />
+
+
 
   </configure>
 
