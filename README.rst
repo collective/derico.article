@@ -27,9 +27,9 @@
     :alt: License
 
 
-==============
-derico.article
-==============
+==================
+derico.article WIP
+==================
 
 An article content type for Plone. Behaves like a Document, is folderish and can cantain Images and Files.
 
